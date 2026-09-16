@@ -30,6 +30,8 @@
 ],
 "dateModified":
 "2025-04-11T09:39:21.152621-04:00",
+"datePublished":
+"2026-09-16T01:58:03.123171+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -45,6 +47,34 @@
 "99be2fa4-721e-4391-aeaa-0ba8a8f0d8ee",
 "path":
 "2023-03-28-11-18-37_video-camera-1.mp4",
+"publishedBy":
+{
+"endDate":
+"2026-09-16T01:58:03.123171+00:00",
+"id":
+"urn:uuid:8527e405-764e-4a32-b5f4-074fed57a15e",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2026-09-16T01:58:03.123171+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:356e48cd-c3ef-4019-8d89-d4280006e3f1",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -83,7 +113,7 @@
 ]
 },
 "modified":
-"2025-04-11T13:39:31.587656Z",
+"2026-09-16T01:58:03.129277Z",
 "path":
 "2023-03-28-11-18-37_video-camera-1.mp4",
 "size":
@@ -129,6 +159,8 @@
 ],
 "dateModified":
 "2025-04-14T15:55:59.115636-04:00",
+"datePublished":
+"2026-09-16T01:58:03.138783+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -165,6 +197,34 @@
 ],
 "path":
 "sub-U/sub-U_ses-None_ophys.nwb",
+"publishedBy":
+{
+"endDate":
+"2026-09-16T01:58:03.138783+00:00",
+"id":
+"urn:uuid:e54c04d2-88d1-4f79-b0c1-5e2e13f1b1d9",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2026-09-16T01:58:03.138783+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:f2e3eb5f-72ce-4d0f-831c-1f560ba89ce8",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -289,7 +349,7 @@
 ]
 },
 "modified":
-"2025-04-14T20:01:11.102335Z",
+"2026-09-16T01:58:03.141835Z",
 "path":
 "sub-U/sub-U_ses-None_ophys.nwb",
 "size":
