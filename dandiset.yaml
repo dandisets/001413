@@ -37,7 +37,7 @@ assetsSummary:
   - OpticalChannel
   - ProcessingModule
 citation: Galvan, Adriana (2026) Calcium imaging of motor cortex during arm reaching
-  tasks (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001413/draft
+  tasks (Version 0.260916.0158) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001413/0.260916.0158
 contributor:
 - affiliation: []
   email: agalvan@emory.edu
@@ -47,20 +47,34 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-04-11T12:41:28.702473+00:00'
+datePublished: '2026-09-16T01:58:03.070994+00:00'
 description: This dandiset includes calcium imaging data of cortical neurons (SMA
   & M1) recorded in macaque monkeys during simple arm reaching task performance.
+doi: 10.48324/dandi.001413/0.260916.0158
 ethicsApproval: []
-id: DANDI:001413/draft
+id: DANDI:001413/0.260916.0158
 identifier: DANDI:001413
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001413/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001413/0.260916.0158/assets.yaml
 name: Calcium imaging of motor cortex during arm reaching tasks
+publishedBy:
+  endDate: '2026-09-16T01:58:03.070994+00:00'
+  id: urn:uuid:cd528a83-cd9d-4f28-93c5-a1f3445851f0
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-09-16T01:58:03.070994+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:c1b121a1-aa9e-4cff-83b3-096ef748e9cd
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001413/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001413/0.260916.0158
+version: 0.260916.0158
 wasGeneratedBy: []
